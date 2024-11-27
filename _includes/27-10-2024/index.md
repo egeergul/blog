@@ -2,7 +2,7 @@
 
 **Brilliant! 👍**
 
-![Spider-verse Cover](./images/i1.png)
+![Spider-verse Cover](assets/images/27-10-2024/i1.png)
 
 I've just read the Spider-verse run (2014-2015) by Dan Slott, and it was one of the most breathtaking Marvel comic series I've ever read.
 
@@ -35,10 +35,10 @@ In different issues from diferent runs, some events collide. Hence, we read the 
 ### **Let's talk about the artists!**
 
 The Italian artist Giuseppe Camuncoli [(@giuseppe_camuncoli)](https://www.instagram.com/giuseppe_camuncoli/?hl=en) pencils the Amazing Spiderman 7-8, 12-15 and the Superior Spiderman 32-33. I was familiar with his work from Darth Vader (2017 - 2018), and he stunned me with his work in this run as well. The dynamic poses he protrayed Spider-Man maximizes the joy of reading comic books.
-![Art of Camuncoli](./images/i2.png)
+![Art of Camuncoli](assets/images/27-10-2024/i2.png)
 
 Another fascinating artist that catched my attention with his magnificent art is Olivier Coipel [(@oliviercoipel)](https://www.instagram.com/oliviercoipel/?hl=en). The French artist penciled the Amazing Spiderman 9-11, 14. In issue 11, our good-old Peter Parker faces Dr. Octavius who had taken his place for months and in result caused Peter tons of trouble. The first time when these Spider-men come together face to face for the first time after their history is awfully tense. And the brilliant penciling of Coipel reflects this tension just quite right. His art succesfully reflects two opposite personalities in the same-looking bodies. The cold and egoist characteristic of Dr. Octavius and the goofy and gullable personality of Peter are easily noticible by the way they are drawn.
-![Spider-verse Cover](./images/i3.png)
+![Spider-verse Cover](assets/images/27-10-2024/i3.png)
 
 ### **But...**
 
