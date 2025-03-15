@@ -1,4 +1,4 @@
-## Personal Grading Criteria
+## Personal Grading Criteria
 
 I have adopted a new grading criterion for the comic books and graphic novels that I read. This criterion is solely for my personal taste in comics and will continue to evolve as my preferences change over time. Therefore, I am adding versioning to my criteria as well. For each entry, I will specify the grading criteria version that I am using.
 
@@ -8,10 +8,8 @@ I have adopted a new grading criterion for the comic books and graphic novels th
 - Coloring (2 pts)
 - Line Art & Coloring Coherence (1 pt)
 - Art Style Consistency (1 pt)
-  <br><br>
 - Story (3 pts)
 - Narrative (2 pts)
-  <br><br>
 - Pre & Post Requirements (1pts)
 
 Total points: 13
