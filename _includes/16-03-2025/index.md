@@ -35,20 +35,6 @@ Additionally, the color palette that Hollingsworth introduced from _Issue #1_ is
 
 This is an easy **2/2** for me.
 
-### **Coloring: 2/2 pts**
-
-Throughout the series, multiple artists contributed to the coloring. However, the primary colorist—especially for Aja’s work—is **Matt Hollingsworth**, and his work is _insane_. I’ll delve deeper into his use of color to enhance storytelling later on.
-
-![Issue 1](assets/images/16-03-2025/i9.png)
-
-Look at these two pages from _Issue #1_. In this issue, the story jumps back and forth in time. Usually, when comics do this, they rely on descriptive labels like _"Later..."_ or _"Previously..."_. However, Aja and Hollingsworth managed to convey these time shifts purely through the **effective use of color**.
-
-The identical shot of Clint—same angle, same expression—but with different clothing and background colors immediately signals a time jump. From the plot, we can determine whether it's a flashback or a leap forward in time. **Brilliant!**
-
-Additionally, the color palette Hollingsworth introduced from _Issue #1_ is absolutely stunning. The soft, pastel-toned shades of purple are used masterfully throughout the story. I absolutely love the colors—they keep the comic dynamic and enhance the emotional depth of each scene.
-
-This is an easy **2/2** for me.
-
 ### **Line Art & Coloring Coherence: 1/1 pt**
 
 With so many different combinations of line artists and colorists working together throughout the series, addressing each pairing individually would be nearly impossible. So, I’ll focus on the collaboration between the **main line artist (David Aja)** and the **main colorist (Matt Hollingsworth)**.
